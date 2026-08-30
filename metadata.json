@@ -1,0 +1,6 @@
+{
+  "name": "Smart Calculator",
+  "description": "A sleek dark mode calculator with hidden encrypted vault for photos, videos, and files, featuring custom passcode setup and biometric unlock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
